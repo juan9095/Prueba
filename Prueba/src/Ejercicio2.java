@@ -10,7 +10,7 @@ public class Ejercicio2 {
 		float promedio_bultos = 0;
 		int valorPagar = 0;
 		
-		System.out.println("ingrese cantidad de bultos a pesar");//Construya una tabla de seguimiento con no menos de 15 bultos para realizar la prueba del algoritmo.//
+		System.out.println("ingrese cantidad de bultos");//Construya una tabla de seguimiento con no menos de 15 bultos para realizar la prueba del algoritmo.//
 		
 		int n = teclado.nextInt();
 		int array[] = new int[n];
